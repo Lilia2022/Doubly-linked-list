@@ -1,5 +1,4 @@
 # Doubly linked list
-# Niharica and Precilia Group
 
 # create a node
 class Node:
